@@ -83,11 +83,11 @@ optimization and evaluated on the held-out test dataset.
 
 housing-price-prediction/
 │
-├── README.md
-├── HOUSE_PRICE_PREDICTION_PROJECT_1.ipynb
-├── requirements.txt
-├── data/
-└── images/
+-README.md
+-HOUSE_PRICE_PREDICTION_PROJECT_1.ipynb
+-requirements.txt
+-data
+-images
 
 ## Author
 
